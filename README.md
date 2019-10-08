@@ -10,4 +10,4 @@ Code comments play a paramount role in program comprehension, development, and m
 
 # Description of the content:
 
-5. 'Template.md' describes the new proposed template https://github.com/poojaruhal/CommentAnalysisInPharo/blob/master/images/New-template.jpg with instructions details.
+ 'Template.md' describes the new proposed template https://github.com/poojaruhal/CommentAnalysisInPharo/blob/master/images/New-template.jpg with instructions details.
